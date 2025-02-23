@@ -1,31 +1,11 @@
-<header>
+<h1 align="center">Welcome to TierOneDagger's repo.</h1>
+<h3 align="center">Just another cybersecurity student.</h3>
 
-<!--
-  <<< Author notes: Course header >>>
-  TierOneDagger's Github repo.
-AKA: BTR82A, MORTAR, IMMORTAL.
--->
+- 🌱 I’m currently learning **Purpleteaming & Malware Development**
 
-# *What am I studying?*
+- 💬 Ask me about **nothing. do not ask me anything.**
 
-## _Studying Cybersecurity, to be more precise; Redteaming/Purpleteaming & Malware Development._
+- ✅ You will currently only find Malware Development projects in this repo.**
 
-##### - You will find in this repo, Malware Development projects purely for education and research purposes.
-
-##### - Be aware: Do not use these python files for any malicious intent, **only** for educational purposes only.
-
-Projects being worked on:
-1.
-2.
-3.
-4.
-
-</header>
-
-<!--
-  <<< Author notes: Note1 >>>
-  In this repo you will find Malware projects that I develop randomly.
--->
-
-
-</footer>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
