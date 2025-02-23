@@ -7,8 +7,6 @@
 
 - ✅ You will currently only find **Malware Development projects in this repo.**
 
-- ⭐ You will currently only find **Malware Development projects in this repo.**
-
 - 👑 If you have any suggestions or comments on my code please contact me at *immortalnot* @ Discord.
 
 
